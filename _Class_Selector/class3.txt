@@ -1,0 +1,5 @@
+	15260	SOCL	4102	01	WIT	4.000	SOCIOLOGY	WF	03:00 pm-04:50 pm	25	22	0	Negin Sattari (P)	09/05-12/12	WENTW 210	HSS Directed: BIND Psyc/Socl and HSS Directed: BINT Psyc/Socl and HSS Elective: Social Science
+C	15405	SOCL	4102	02	WIT	4.000	SOCIOLOGY	MW	05:00 pm-06:50 pm	25	25	0	Negin Sattari (P)	09/05-12/12	ANXCN 209	HSS Directed: BIND Psyc/Socl and HSS Directed: BINT Psyc/Socl and HSS Elective: Social Science
+ 	15406	SOCL	4102	03	WIT	4.000	SOCIOLOGY	TR	08:00 am-09:50 am	25	25	14	Allen Wong (P)	09/05-12/12	BEATT 419	HSS Directed: BIND Psyc/Socl and HSS Directed: BINT Psyc/Socl and HSS Elective: Social Science
+	15407	SOCL	4102	04	WIT	4.000	SOCIOLOGY	WF	08:00 am-09:50 am	22	21	1	Allen Wong (P)	09/05-12/12	WENTW 308	HSS Directed: BIND Psyc/Socl and HSS Directed: BINT Psyc/Socl and HSS Elective: Social Science
+C	15408	SOCL	4102	05	WIT	4.000	SOCIOLOGY	WF	01:00 pm-02:50 pm	25	25	0	Allen Wong (P)	09/05-12/12	BEATT 419	HSS Directed: BIND Psyc/Socl and HSS Directed: BINT Psyc/Socl and HSS Elective: Social Science
